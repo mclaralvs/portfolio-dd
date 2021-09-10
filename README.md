@@ -1,4 +1,4 @@
-# Portfólio Digital :fireworks:
+<h1 text-align: center>:fireworks: Portfólio Digital</h1>
 #### Desenvolvedora: Maria Clara Alves de Faria
 #### Matéria: Design Digital
 #### Curso: Desenvolvimento de Software Multiplataforma - 1º Semestre
@@ -7,6 +7,7 @@
 
 ### :computer: Recursos utilizados _até o momento_:
 <p>
+    <img src="https://img.shields.io/static/v1?label=Wireframe&message=Figma&color=9747FF&style=for-the-badge&logo=ghost"/>
     <img src="https://img.shields.io/static/v1?label=Structure&message=HTML-5&color=F16529&style=for-the-badge&logo=ghost"/>
     <img src="https://img.shields.io/static/v1?label=Style&message=CSS-3&color=108DBF&style=for-the-badge&logo=ghost"/>
 </p>
