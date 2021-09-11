@@ -22,7 +22,7 @@
 <p>             - - -:open_file_folder: <strong>footer</strong> - pasta com imagens de logo das redes sociais utilizadas no rodapé do site;</p>
 <p>     - :open_file_folder: <strong>ico</strong> - pasta com ícone utilizado para estilizar a barra do site.</p>
 
-### :clapper: Link do vídeo de demonstração do site: 
+### :clapper: Link do vídeo de demonstração do site: clique <a href="https://youtu.be/XVsVkRNm86g" target="_blank">aqui!</a>
 
 ### :pushpin: Explicando as páginas do portfólio:
 <ul>
