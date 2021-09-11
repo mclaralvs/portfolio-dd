@@ -7,9 +7,9 @@
 
 ### :computer: Recursos utilizados _até o momento_:
 <p>
-    <img src="https://img.shields.io/static/v1?label=Wireframe&message=Figma&color=9747FF&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=Structure&message=HTML-5&color=F16529&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=Style&message=CSS-3&color=108DBF&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### :clipboard: Arquivos do repositório:
