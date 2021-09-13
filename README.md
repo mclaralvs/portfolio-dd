@@ -3,7 +3,7 @@
 #### Matéria: Design Digital
 #### Curso: Desenvolvimento de Software Multiplataforma - 1º Semestre
 
-### :hourglass: Status do Projeto: Em andamento... :construction:
+### :hourglass: Status do Projeto: em andamento... :construction:
 
 ### :computer: Recursos utilizados _até o momento_:
 <p>
@@ -13,9 +13,9 @@
 </p>
 
 ### :clipboard: Arquivos do repositório:
-<p> :file_folder: <strong>doc</strong> - pasta que contêm o pdf do wireframe desse projeto, tanto para desktop, quanto para mobile;</p>
-<p> :file_folder: <strong>scr</strong> - pasta que contêm os códigos em html e css para desenvolvimento desse projeto, além de mais duas pastas, <em>img</em> e <em>ico</em>;</p>
-<p>     - :open_file_folder: <strong>img</strong> - pasta que contêm imagens soltas, um pdf utilizado em uma das páginas, e, também, mais duas pastas;</p>
+<p> :file_folder: <strong>doc</strong> - pasta que contém o pdf do wireframe desse projeto, tanto para desktop, quanto para mobile;</p>
+<p> :file_folder: <strong>scr</strong> - pasta que contém os códigos em html e css para desenvolvimento desse projeto, além de mais duas pastas, <em>img</em> e <em>ico</em>;</p>
+<p>     - :open_file_folder: <strong>img</strong> - pasta que contém imagens soltas, um pdf utilizado em uma das páginas, e, também, mais duas pastas;</p>
 <p>         - - :open_file_folder: <strong>tv-shows</strong> - pasta com imagens para a parte de 'Séries Favoritas';</p>
 <p>         - - :open_file_folder: <strong>games</strong> - pasta com imagens para a parte de 'Jogos Favoritos';</p>
 <p>         - - :open_file_folder: <strong>logo-sm</strong> - pasta com imagens de logo das redes sociais demarcadas no site;</p>
