@@ -115,9 +115,10 @@ main {
     font-size: 1em;
 }
 
-main img {
+.profile img {
     flex-wrap: wrap;
     border-radius: 20px;
+    filter: saturate(120%);
 }
 
 .card-title {
