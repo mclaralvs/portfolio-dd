@@ -133,12 +133,14 @@ main {
 }
 
 .card {
-    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
     background-color: var(--cor1);
     border-radius: 10px;
-    margin: 10px;
+    margin: auto;
     width: 290px;
     height: 280px;
+    margin-bottom: 25px;
 }
 
 .card h4 {
@@ -157,35 +159,36 @@ main {
     flex-wrap: wrap;   
 }
 
-button {
+.btn.btn-dark {
     background-color: var(--cor3);
-    border-radius: 20px;
     border: var(--cor3);
     color: white;
-    font-size: 1.3em;
-    height: 50px;
-    width: 110px;
-    margin-top: 10px ;
+    font-size: 1.1em;
+
+    margin: auto;
 }
 
-button a {
+.card .btn.btn-dark {
+    height: 50px;
+    width: 110px;
+}
+
+#short-one {
+    margin-top: 88px;
+}
+
+.btn.btn-dark a {
     text-decoration: none;
     color: white;
-    height: 50px;
-    width: 110px;
 }
 
-button:hover {
+.btn.btn-dark:hover {
     border: var(--cor2);
     background-color: var(--cor2);
-    border-radius: 10px;
-    padding: 5px;
     transition-duration: 0.5s;
 }
 
-button a:hover{
-    height: 50px;
-    width: 110px;
+.btn.btn-dark a:hover{
     color: var(--cor3);
 }
 
@@ -198,7 +201,8 @@ button a:hover{
     background-color: var(--cor1);
     border-radius: 10px;
     padding: 5px;
-    margin: 10px;
+    margin: auto;
+    margin-bottom: 25px;
 }
 
 .about h2,
@@ -274,7 +278,7 @@ button a:hover{
 .edu-cards {
     display: flex;
     flex-wrap: wrap;
-    margin-left: 60px;
+    
 }
 
 .sub-title {
@@ -289,9 +293,10 @@ button a:hover{
     padding: 10px;
     background-color: var(--cor1);
     border-radius: 10px;
-    margin: 10px;
-    width: 260px;
-    height: 250px;
+    margin: auto;
+    width: 300px;
+    height: 270px;
+    margin-bottom: 25px;
 }
 
 .education h3,
@@ -306,18 +311,19 @@ button a:hover{
 .proj-cards {
     display: flex;
     flex-wrap: wrap;
-    margin-left: 60px;
 }
 
 .project {
+    position: relative;
     align-items: center;
     flex-wrap: wrap;
     padding: 10px;
     background-color: var(--cor1);
     border-radius: 10px;
-    margin: 10px;
-    width: 260px;
-    height: 400px;
+    width: 300px;
+    height: 425px;
+    margin: auto;
+    margin-bottom: 25px;
 }
 
 .project h3,
@@ -329,31 +335,16 @@ button a:hover{
     padding: 2.5px;
 }
 
-.proj-button {
-    background-color: var(--cor3);
-    border-radius: 10px;
-    width: 130px;
-    padding: 5px;
-    text-align: center;
-    margin-top: 20px;
-    margin-left: 60px;
+#first {
+    margin-bottom: -25px;
 }
 
-.proj-button a {
-    text-decoration: none;
-    color: white;
+#sec {
+    margin-bottom: -185px;
 }
 
-.proj-button:hover {
-    background-color: var(--cor2);
-    color: var(--cor3);
-    border-radius: 10px;
-    padding: 5px;
-    transition-duration: 0.5s;
-}
-
-.proj-button a:hover {
-    color: var(--cor3);
+#last {
+    margin-bottom: -135px;
 }
 
 /*Parte da página contact.html*/
