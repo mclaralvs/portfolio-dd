@@ -1,4 +1,7 @@
+<br id="inicio">
+
 # :cloud: Portfólio Digital
+
 > Desenvolvedora: Maria Clara Alves de Faria
 > 
 > Matéria: Design Digital
@@ -57,10 +60,10 @@
 
 ### :clapper: Vídeos de demonstração do site:
 
-Entrega | Link
---------|-------
-#1 | <a href="https://youtu.be/XVsVkRNm86g" target="_blank">Aqui!</a>
-#2 | 
+Entrega | Link | Tag
+--------|------|-----
+#1 | <a href="https://youtu.be/XVsVkRNm86g" target="_blank">Aqui!</a> | <a href="https://github.com/mclaralvs/portfolio/releases/tag/v1.0">Aqui!</a>
+#2 | <a href="https://youtu.be/Ub1sc0fByG8" target="_blank">Aqui!</a> | <a href="https://github.com/mclaralvs/portfolio/releases/tag/v2.0">Aqui!</a>
 
 ### :pushpin: Explicando as páginas do portfólio:
 <ul>
@@ -69,3 +72,5 @@ Entrega | Link
     <li>academic.html - Nesta, o propósito foi elencar as instituições de ensino por onde passei, além dos projetos desenvolvidos, tanto no Ensino Médio, quanto no Ensino Superior.</li>
     <li>contact.html - Por fim, página destinada à divulgação das minhas formas de contato.</li>
 </ul>
+
+↑ [Voltar ao início](#inicio) 
