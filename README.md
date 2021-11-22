@@ -32,7 +32,7 @@
  
  # Abra o prompt de comando e confirme se este está com o endereço da pasta correto;
    
- cd API-2021-2
+ cd portfolio
  
  # Instale os requisitos para rodar a aplicação;
    
