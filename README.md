@@ -23,7 +23,7 @@
 
 ### :hammer: Executando a aplicação:
 
-#### Acesse pelo heroku <a href="https://portfolio-ddf.herokuapp.com/">aqui!</a>
+#### Acesse pelo heroku <a href="https://portfolio-maria-clara.herokuapp.com/">aqui!</a>
 
 #### Primeiramente, certifique-se se tem o Python, caso não tenha, acesse <a href="https://www.python.org/downloads/">aqui</a> 
 ```python 
