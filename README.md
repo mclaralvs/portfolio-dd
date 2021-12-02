@@ -8,7 +8,7 @@
 > 
 > Curso: Desenvolvimento de Software Multiplataforma - 1º Semestre
 
-### :hourglass: Status do Projeto: em andamento... :construction:
+### :hourglass: Status do Projeto: concluído :heavy_check_mark:
 
 ### :computer: Recursos utilizados _até o momento_:
 <p>
@@ -25,7 +25,10 @@
 
 #### Acesse pelo heroku <a href="https://portfolio-maria-clara.herokuapp.com/">aqui!</a>
 
+#### Ou então, pode executá-la seguindo os passos a seguir:
+
 #### Primeiramente, certifique-se se tem o Python, caso não tenha, acesse <a href="https://www.python.org/downloads/">aqui</a> 
+
 ```python 
  # Após a instalação, siga os seguintes passos:
 
@@ -63,12 +66,13 @@
 <p> | - - - - :open_file_folder: <strong>footer</strong> - pasta com imagens de logo das redes sociais utilizadas no rodapé do site;</p>
 <p> | - - :open_file_folder: <strong>ico</strong> - pasta com ícone utilizado para estilizar a barra do site.</p>
 
-### :clapper: Vídeos de demonstração do site:
+###  :link: Links de demonstração do site:
 
 Entrega | Link | Tag
 --------|------|-----
-#1 | <a href="https://youtu.be/XVsVkRNm86g" target="_blank">Aqui!</a> | <a href="https://github.com/mclaralvs/portfolio/releases/tag/v1.0">Aqui!</a>
-#2 | <a href="https://youtu.be/Ub1sc0fByG8" target="_blank">Aqui!</a> | <a href="https://github.com/mclaralvs/portfolio/releases/tag/v2.0">Aqui!</a>
+#1 | <a href="https://youtu.be/XVsVkRNm86g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> | <a href="https://github.com/mclaralvs/portfolio/releases/tag/v1.0">:bookmark:</a>
+#2 | <a href="https://youtu.be/Ub1sc0fByG8" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> | <a href="https://github.com/mclaralvs/portfolio/releases/tag/v2.0">:bookmark:</a>
+#3 | <a href="https://portfolio-maria-clara.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a> | <a href="https://github.com/mclaralvs/portfolio/releases/tag/v3.0">:bookmark:</a>
 
 ### :pushpin: Explicando as páginas do portfólio:
 <ul>
